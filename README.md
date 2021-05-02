@@ -35,6 +35,7 @@
   <li> $ code . (to open vs code) </li>
   <li> $ npm install axios react reac-router-dom easy peasy --save</li>
   <li> $ npm start </li>
+  <li> Wait and it will be running on web browser localhost </li>
   
  </ul>
 </h3> <br>
@@ -44,6 +45,11 @@
   <li> <h3> <a href = "https://kyky2912.docs.apiary.io/"> Soon! </a> </h3> </li>
   </ul>
   <br>
+  
+Sneak Peak!
+![localhost3000](https://user-images.githubusercontent.com/52888940/116802114-8bfd0580-ab3a-11eb-8600-1149ec5c191b.JPG)
+![cards](https://user-images.githubusercontent.com/52888940/116802112-8acbd880-ab3a-11eb-8dec-3913453bc68b.JPG)
+
   
 # Getting Started with Create React App
 
