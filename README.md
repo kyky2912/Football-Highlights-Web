@@ -1,3 +1,50 @@
+# Football Matches Highlights
+<h3> Made by <br> Name = Nicky <br> NIM = 03082180028 </h3>
+<h1> Overview </h1>
+  <h3> Highlights Matches consuming ScoreBat API <br> 
+  <ul> 
+    <li> https://www.scorebat.com/video-api/v1/ </li> 
+  </ul> 
+</h3> <br>
+
+<h1> Requirement </h1>
+  <h3> Required System for export your spotify playlist <br>
+<ul>
+  <li> <a href="https://nodejs.org"> Node Js </a> </li>
+  <li> <a href="https://code.visualstudio.com"> Code Editor (Vs Code) </a> </li>
+  <li> <a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab"> Terminal </a> </li>
+  <li> <a href="https://chrome.com"> Web Browser </a> </li>
+  </ul>
+</h3> <br>
+
+<h1> Depedencies </h1>
+  <h3> Required depedencies to install: => ( npm install "name"! ) <br>
+ <ul>
+  <li> React  </li> 
+  <li> React-Router-DOM </li>
+  <li> Axios  </li> 
+  <li> Easy-peasy </li>
+  </ul>
+</h3> <br>
+
+<h1> How to run this project? </h1>
+  <h3> Here are the steps :) <br></br>
+ <ul>
+  <li> GitBash on the folder </li>
+  <li> Then type Code . in the GitBash </li>
+  <li> $ code . (to open vs code) </li>
+  <li> $ npm install axios react reac-router-dom easy peasy --save</li>
+  <li> $ npm start </li>
+  
+ </ul>
+</h3> <br>
+
+<h1> Documentation </h1>
+  <ul>
+  <li> <h3> <a href = "https://kyky2912.docs.apiary.io/"> Soon! </a> </h3> </li>
+  </ul>
+  <br>
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
