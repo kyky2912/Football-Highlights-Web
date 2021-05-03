@@ -1,5 +1,5 @@
 # Football Matches Highlights
-<h3> Made by <br> Name = Nicky <br> NIM = 03082180028 </h3>
+
 <h1> Overview </h1>
   <h3> Highlights Matches consuming ScoreBat API <br> 
   <ul> 
